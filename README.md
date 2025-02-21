@@ -2,19 +2,19 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://mushafmirdev.github.io/portfolio/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/mushafmir/">LinkedIn</a> - 
-  <a href="https://x.com/Mushafmir1850">Twitter</a> -
+  <a href="https://linktr.ee/engr.zulqarnain">Portfolio</a>-
+  <a href="https://www.linkedin.com/in/zulqarnain-hayder/">LinkedIn</a> - 
+  <a href="https://x.com/zulqarnai7">Twitter</a> -
   <a href="https://mushafmirdev.github.io/portfolio/">Website</a> -
-  <a href="https://topmate.io/mushaf_ali">Contact me</a> 
+  <a href="(https://topmate.io/zulqarnain)">Contact me</a> -
 </p> 
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ AI/Robotics enthusiast | Designer @MLSASZABIST-ISB <br>
-⚡ Check my ✨ [Website](https://mushafmirdev.github.io/MyProfile/)
-📫 How to reach me: [Schedule Call](https://topmate.io/mushaf_ali) <br>
-👯 Follow my WhatsApp Channel. [Tech Enthusiasts](https://whatsapp.com/channel/0029VarkCmE2UPBBlMNbEW2J)<br>
+✨ Software Engineer| Developer @CUI <br>
+⚡ Check my ✨ [Website](https://linktr.ee/engr.zulqarnain)
+📫 How to reach me: [Schedule Call](https://topmate.io/zulqarnain) <br>
+👯 Contact on WhatsApp  [Contact](http://wa.me/923554797685)<br>
 💬 Ask me about AI/Graphic Designing.<br>
 
 <br><br>
