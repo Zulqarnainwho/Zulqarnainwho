@@ -23,15 +23,15 @@
 
 ## GitHub Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushafmirdev&theme=tokyonight"  align="left" >
-<img  src="https://github-stats-lemon.vercel.app/api?username=mushafmirdev&show_icons=true&hide_border=true&theme=react" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mushafmirdev&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engr-zulqarnain&theme=tokyonight"  align="left" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=engr-zulqarnain&show_icons=true&hide_border=true&theme=react" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=engr-zulqarnain&theme=tokyonight" >
 
 ## Languages Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mushafmirdev&theme=tokyonight"  align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushafmirdev&theme=tokyonight"  >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mushafmirdev&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engr-zulqarnain&theme=tokyonight"  align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-zulqarnain&theme=tokyonight"  >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engr-zulqarnain&theme=tokyonight" >
 
 
 ## Contribution Graph
@@ -42,9 +42,9 @@
 
 <!--- Adding Tech Stack open Section -->
 ## 🏆 My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=mushafmirdev)
+![My Trophies](https://github-profile-trophy.vercel.app/?username=engr-zulqarnain)
 
-<!--[![Profile Views](https://visitcount.itsvg.in/api?id=mushafmirdev&icon=0&color=3)](https://visitcount.itsvg.in)
+<!--[![Profile Views](https://visitcount.itsvg.in/api?id=engr-zulqarnain&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
